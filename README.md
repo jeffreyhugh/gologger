@@ -1,4 +1,6 @@
 # gologger
+[![GoDoc](https://godoc.org/github.com/qbxt/gologger?status.png)](http://godoc.org/github.com/qbxt/gologger)
+[![Go Report Card](https://goreportcard.com/badge/github.com/qbxt/gologger)](https://goreportcard.com/report/github.com/qbxt/gologger)
 
 ## Purpose
 
