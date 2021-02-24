@@ -1,4 +1,4 @@
-// Package gologger package is used as a simple wrapper for the logrus
+// Package gologger is used as a simple wrapper for the logrus
 // logging package. This simple layer of abstraction requires less
 // code and can keep code much cleaner in the end.
 package gologger
